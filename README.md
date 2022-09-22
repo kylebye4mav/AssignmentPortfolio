@@ -14,4 +14,4 @@ https://github.com/EricJPogue/node-js-express-and-azure-template
 
 Build instructions:
 - Locally: Open the folder in the client folder and open "index.html"
-- Online: Click on this link: https://diceroller-kb.azurewebsites.net/
+- Online: Click on this link: https://assignmentportfolio-kb.azurewebsites.net/ 
