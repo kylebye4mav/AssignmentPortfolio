@@ -1,12 +1,12 @@
 # AssignmentPortfolio
 
-Name: Kyle Bye
-Project: AssignmentPortfolio
+Name: Kyle Bye \
+Project: AssignmentPortfolio \
 Email: kylevbye@lewisu.edu
 
-Image Sources
-https://www.publicdomainpictures.net/en/view-image.php?image=223417&picture=dice
-https://t3.gstatic.com/images?q=tbn:ANd9GcSTNUbC2OMpZMJBEDt2a6Kg-7V0Rm0HP0qtwTZWJAHAIrbdDnvQ
+Image Sources \
+https://www.publicdomainpictures.net/en/view-image.php?image=223417&picture=dice \
+https://t3.gstatic.com/images?q=tbn:ANd9GcSTNUbC2OMpZMJBEDt2a6Kg-7V0Rm0HP0qtwTZWJAHAIrbdDnvQ \
 https://medium.com/tech-tajawal/regular-expressions-the-last-guide-6800283ac034
 
 Used Azure Template from Eric Pogue
